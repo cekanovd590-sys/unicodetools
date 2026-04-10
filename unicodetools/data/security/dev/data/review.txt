@@ -1,5 +1,5 @@
 # review.txt
-# Date: 2026-04-06, 20:49:13 GMT
+# Date: 2026-04-10, 16:01:27 GMT
 # © 2026 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use and license, see https://www.unicode.org/terms_of_use.html
@@ -1324,7 +1324,7 @@
 0554          ; input                          #      (Ք)  ARMENIAN CAPITAL LETTER KEH
 0555          ; input                          #      (Օ)  ARMENIAN CAPITAL LETTER OH
 0556          ; input                          #      (Ֆ)  ARMENIAN CAPITAL LETTER FEH
-0558          ; Restricted ; Technical         #      (՘)  MODIFIER LETTER ARMENIAN SMALL EH
+0558          ; input-lenient                  #      (՘)  MODIFIER LETTER ARMENIAN SMALL EH
 0559          ; Restricted ; Technical         #      (ՙ)  ARMENIAN MODIFIER LETTER LEFT HALF RING
 055A          ; Restricted ; Not_XID           #      (՚)  ARMENIAN APOSTROPHE
 055B          ; Restricted ; Not_XID           #      (՛)  ARMENIAN EMPHASIS MARK
@@ -1375,8 +1375,8 @@
 0588          ; Restricted ; Technical         #      (ֈ)  ARMENIAN SMALL LETTER YI WITH STROKE
 0589          ; Restricted ; Not_XID           #      (։)  ARMENIAN FULL STOP
 058A          ; output                         #      (֊)  ARMENIAN HYPHEN
-058B          ; Restricted ; Technical         #      (֋)  MODIFIER LETTER ARMENIAN SMALL INI
-058C          ; Restricted ; Technical         #      (֌)  MODIFIER LETTER ARMENIAN SMALL YI
+058B          ; input-lenient                  #      (֋)  MODIFIER LETTER ARMENIAN SMALL INI
+058C          ; input-lenient                  #      (֌)  MODIFIER LETTER ARMENIAN SMALL YI
 058D          ; Restricted ; Not_XID           #      (֍)  RIGHT-FACING ARMENIAN ETERNITY SIGN
 058E          ; Restricted ; Not_XID           #      (֎)  LEFT-FACING ARMENIAN ETERNITY SIGN
 058F          ; Restricted ; Not_XID           #      (֏)  ARMENIAN DRAM SIGN
@@ -5912,9 +5912,9 @@
 209A          ; input-lenient                  #      (ₚ)  LATIN SUBSCRIPT SMALL LETTER P
 209B          ; input-lenient                  #      (ₛ)  LATIN SUBSCRIPT SMALL LETTER S
 209C          ; input-lenient                  #      (ₜ)  LATIN SUBSCRIPT SMALL LETTER T
-209D          ; Restricted ; Technical         #      (₝)  LATIN SUBSCRIPT SMALL LETTER W
-209E          ; Restricted ; Technical         #      (₞)  LATIN SUBSCRIPT SMALL LETTER Y
-209F          ; Restricted ; Technical         #      (₟)  LATIN SUBSCRIPT SMALL LETTER Z
+209D          ; input-lenient                  #      (₝)  LATIN SUBSCRIPT SMALL LETTER W
+209E          ; input-lenient                  #      (₞)  LATIN SUBSCRIPT SMALL LETTER Y
+209F          ; input-lenient                  #      (₟)  LATIN SUBSCRIPT SMALL LETTER Z
 20A0          ; Restricted ; Not_XID           #      (₠)  EURO-CURRENCY SIGN
 20A1          ; Restricted ; Not_XID           #      (₡)  COLON SIGN
 20A2          ; Restricted ; Not_XID           #      (₢)  CRUZEIRO SIGN
@@ -34343,10 +34343,10 @@ FFEE          ; Restricted ; Not_XID           #      (￮)  HALFWIDTH WHITE CIR
 1B120         ; Restricted ; Obsolete          #      (𛄠)  KATAKANA LETTER ARCHAIC YI
 1B121         ; Restricted ; Obsolete          #      (𛄡)  KATAKANA LETTER ARCHAIC YE
 1B122         ; Restricted ; Obsolete          #      (𛄢)  KATAKANA LETTER ARCHAIC WU
-1B123         ; Restricted ; Obsolete          #      (𛄣)  HIRAGANA DIGRAPH KOTO
-1B124         ; Restricted ; Obsolete          #      (𛄤)  KATAKANA DIGRAPH TOKI
-1B125         ; Restricted ; Obsolete          #      (𛄥)  KATAKANA DIGRAPH TOTE
-1B126         ; Restricted ; Obsolete          #      (𛄦)  KATAKANA DIGRAPH YORI
+1B123         ; input-lenient                  #      (𛄣)  HIRAGANA DIGRAPH KOTO
+1B124         ; input-lenient                  #      (𛄤)  KATAKANA DIGRAPH TOKI
+1B125         ; input-lenient                  #      (𛄥)  KATAKANA DIGRAPH TOTE
+1B126         ; input-lenient                  #      (𛄦)  KATAKANA DIGRAPH YORI
 1B127         ; Restricted ; Obsolete          #      (𛄧)  KATAKANA LETTER ALTERNATE NE
 1B128         ; Restricted ; Obsolete          #      (𛄨)  KATAKANA LETTER ALTERNATE WI
 1B132         ; Restricted ; Obsolete          #      (𛄲)  HIRAGANA LETTER SMALL KO
@@ -36943,59 +36943,59 @@ FFEE          ; Restricted ; Not_XID           #      (￮)  HALFWIDTH WHITE CIR
 1DF92         ; Restricted ; Obsolete          #      (𝾒)  LATIN SMALL LETTER C WITH RIGHT LOOP
 1DF93         ; Restricted ; Obsolete          #      (𝾓)  LATIN SMALL LETTER D ROTUNDA WITH CROSSING LOOP
 1DF94         ; Restricted ; Obsolete          #      (𝾔)  LATIN SMALL LETTER R ROTUNDA WITH LOOP
-1DF95         ; Restricted ; Obsolete          #      (𝾕)  LATIN SMALL LIGATURE LONG S WITH DESCENDER S
+1DF95         ; input-lenient                  #      (𝾕)  LATIN SMALL LIGATURE LONG S WITH DESCENDER S
 1DF96         ; Restricted ; Obsolete          #      (𝾖)  LATIN SMALL LETTER LONG S WITH TOP LOOP
-1DFCD         ; Restricted ; Technical         #      (𝿍)  MODIFIER LETTER SMALL TURNED R WITH MID-HEIGHT LEFT HOOK
-1DFCE         ; Restricted ; Technical         #      (𝿎)  MODIFIER LETTER SMALL SPLIT O
-1DFCF         ; Restricted ; Technical         #      (𝿏)  MODIFIER LETTER SMALL SPLIT U
-1DFD0         ; Restricted ; Technical         #      (𝿐)  LATIN SUBSCRIPT SMALL LETTER GAMMA
-1DFD1         ; Restricted ; Technical         #      (𝿑)  MODIFIER LETTER SMALL CAPITAL P
-1DFD2         ; Restricted ; Technical         #      (𝿒)  MODIFIER LETTER SMALL B WITH STROKE
-1DFD3         ; Restricted ; Technical         #      (𝿓)  MODIFIER LETTER SMALL D WITH STROKE
-1DFD4         ; Restricted ; Technical         #      (𝿔)  MODIFIER LETTER SMALL G WITH STROKE
-1DFD5         ; Restricted ; Technical         #      (𝿕)  MODIFIER LETTER SMALL L WITH STROKE
-1DFD6         ; Restricted ; Technical         #      (𝿖)  MODIFIER LETTER SMALL L WITH BAR
-1DFD7         ; Restricted ; Technical         #      (𝿗)  MODIFIER LETTER SMALL TURNED R WITH STROKE
-1DFD8         ; Restricted ; Technical         #      (𝿘)  MODIFIER LETTER SMALL BARRED TURNED H
-1DFD9         ; Restricted ; Technical         #      (𝿙)  MODIFIER LETTER SMALL J WITH STROKE
-1DFDA         ; Restricted ; Technical         #      (𝿚)  MODIFIER LETTER SMALL UPSILON WITH STROKE
-1DFDB         ; Restricted ; Technical         #      (𝿛)  MODIFIER LETTER SMALL BARRED W
-1DFDC         ; Restricted ; Technical         #      (𝿜)  MODIFIER LETTER SMALL N WITH LONG RIGHT LEG
-1DFDD         ; Restricted ; Technical         #      (𝿝)  MODIFIER LETTER SMALL R WITH LONG LEG
-1DFDE         ; Restricted ; Technical         #      (𝿞)  MODIFIER LETTER SMALL DB DIGRAPH
-1DFDF         ; Restricted ; Technical         #      (𝿟)  MODIFIER LETTER SMALL QP DIGRAPH
-1DFE0         ; Restricted ; Technical         #      (𝿠)  MODIFIER LETTER SMALL DEZH DIGRAPH WITH CURL
-1DFE1         ; Restricted ; Technical         #      (𝿡)  MODIFIER LETTER SMALL DEZH DIGRAPH WITH RETROFLEX HOOK
-1DFE2         ; Restricted ; Technical         #      (𝿢)  MODIFIER LETTER SMALL ESH WITH CURL
-1DFE3         ; Restricted ; Technical         #      (𝿣)  MODIFIER LETTER SMALL ESH WITH RETROFLEX HOOK
-1DFE4         ; Restricted ; Technical         #      (𝿤)  MODIFIER LETTER SMALL TESH DIGRAPH WITH CURL
-1DFE5         ; Restricted ; Technical         #      (𝿥)  MODIFIER LETTER SMALL TESH DIGRAPH WITH RETROFLEX HOOK
-1DFE6         ; Restricted ; Technical         #      (𝿦)  MODIFIER LETTER SMALL EZH WITH CURL
-1DFE7         ; Restricted ; Technical         #      (𝿧)  MODIFIER LETTER SMALL EZH WITH RETROFLEX HOOK
-1DFE8         ; Restricted ; Technical         #      (𝿨)  MODIFIER LETTER SMALL CAPITAL D
-1DFE9         ; Restricted ; Technical         #      (𝿩)  MODIFIER LETTER SMALL CAPITAL A
-1DFEA         ; Restricted ; Technical         #      (𝿪)  MODIFIER LETTER SMALL CAPITAL E
-1DFEB         ; Restricted ; Technical         #      (𝿫)  MODIFIER LETTER SMALL REVERSED R WITH FISHHOOK
-1DFEC         ; Restricted ; Technical         #      (𝿬)  MODIFIER LETTER SMALL SQUAT REVERSED ESH
-1DFED         ; Restricted ; Technical         #      (𝿭)  MODIFIER LETTER SMALL TURNED H WITH FISHHOOK
-1DFEE         ; Restricted ; Technical         #      (𝿮)  MODIFIER LETTER SMALL TURNED H WITH FISHHOOK AND TAIL
-1DFEF         ; Restricted ; Technical         #      (𝿯)  MODIFIER LETTER SMALL D WITH CURL
-1DFF0         ; Restricted ; Technical         #      (𝿰)  MODIFIER LETTER SMALL L WITH CURL
-1DFF1         ; Restricted ; Technical         #      (𝿱)  MODIFIER LETTER SMALL N WITH CURL
-1DFF2         ; Restricted ; Technical         #      (𝿲)  MODIFIER LETTER SMALL T WITH CURL
-1DFF3         ; Restricted ; Technical         #      (𝿳)  MODIFIER LETTER SMALL GREEK PSI
-1DFF4         ; Restricted ; Technical         #      (𝿴)  MODIFIER LETTER SMALL GREEK OMEGA
-1DFF5         ; Restricted ; Technical         #      (𝿵)  MODIFIER LETTER SMALL D WITH PALATAL HOOK
-1DFF6         ; Restricted ; Technical         #      (𝿶)  MODIFIER LETTER SMALL H WITH PALATAL HOOK
-1DFF7         ; Restricted ; Technical         #      (𝿷)  MODIFIER LETTER SMALL N WITH PALATAL HOOK
-1DFF8         ; Restricted ; Technical         #      (𝿸)  MODIFIER LETTER SMALL S WITH PALATAL HOOK
-1DFF9         ; Restricted ; Technical         #      (𝿹)  MODIFIER LETTER SMALL Z WITH PALATAL HOOK
-1DFFA         ; Restricted ; Technical         #      (𝿺)  MODIFIER LETTER SMALL C WITH HOOK
-1DFFB         ; Restricted ; Technical         #      (𝿻)  MODIFIER LETTER SMALL K WITH HOOK
-1DFFC         ; Restricted ; Technical         #      (𝿼)  MODIFIER LETTER SMALL P WITH HOOK
-1DFFD         ; Restricted ; Technical         #      (𝿽)  MODIFIER LETTER SMALL Q WITH HOOK
-1DFFE         ; Restricted ; Technical         #      (𝿾)  MODIFIER LETTER SMALL T WITH HOOK
-1DFFF         ; Restricted ; Technical         #      (𝿿)  MODIFIER LETTER SMALL T WITH HOOK AND RETROFLEX HOOK
+1DFCD         ; Restricted ; output-disallowed #      (𝿍)  MODIFIER LETTER SMALL TURNED R WITH MID-HEIGHT LEFT HOOK
+1DFCE         ; Restricted ; output-disallowed #      (𝿎)  MODIFIER LETTER SMALL SPLIT O
+1DFCF         ; Restricted ; output-disallowed #      (𝿏)  MODIFIER LETTER SMALL SPLIT U
+1DFD0         ; Restricted ; output-disallowed #      (𝿐)  LATIN SUBSCRIPT SMALL LETTER GAMMA
+1DFD1         ; Restricted ; output-disallowed #      (𝿑)  MODIFIER LETTER SMALL CAPITAL P
+1DFD2         ; Restricted ; output-disallowed #      (𝿒)  MODIFIER LETTER SMALL B WITH STROKE
+1DFD3         ; input-lenient                  #      (𝿓)  MODIFIER LETTER SMALL D WITH STROKE
+1DFD4         ; Restricted ; output-disallowed #      (𝿔)  MODIFIER LETTER SMALL G WITH STROKE
+1DFD5         ; input-lenient                  #      (𝿕)  MODIFIER LETTER SMALL L WITH STROKE
+1DFD6         ; Restricted ; output-disallowed #      (𝿖)  MODIFIER LETTER SMALL L WITH BAR
+1DFD7         ; Restricted ; output-disallowed #      (𝿗)  MODIFIER LETTER SMALL TURNED R WITH STROKE
+1DFD8         ; Restricted ; output-disallowed #      (𝿘)  MODIFIER LETTER SMALL BARRED TURNED H
+1DFD9         ; Restricted ; output-disallowed #      (𝿙)  MODIFIER LETTER SMALL J WITH STROKE
+1DFDA         ; Restricted ; output-disallowed #      (𝿚)  MODIFIER LETTER SMALL UPSILON WITH STROKE
+1DFDB         ; Restricted ; output-disallowed #      (𝿛)  MODIFIER LETTER SMALL BARRED W
+1DFDC         ; Restricted ; output-disallowed #      (𝿜)  MODIFIER LETTER SMALL N WITH LONG RIGHT LEG
+1DFDD         ; Restricted ; output-disallowed #      (𝿝)  MODIFIER LETTER SMALL R WITH LONG LEG
+1DFDE         ; Restricted ; output-disallowed #      (𝿞)  MODIFIER LETTER SMALL DB DIGRAPH
+1DFDF         ; Restricted ; output-disallowed #      (𝿟)  MODIFIER LETTER SMALL QP DIGRAPH
+1DFE0         ; Restricted ; output-disallowed #      (𝿠)  MODIFIER LETTER SMALL DEZH DIGRAPH WITH CURL
+1DFE1         ; Restricted ; output-disallowed #      (𝿡)  MODIFIER LETTER SMALL DEZH DIGRAPH WITH RETROFLEX HOOK
+1DFE2         ; Restricted ; output-disallowed #      (𝿢)  MODIFIER LETTER SMALL ESH WITH CURL
+1DFE3         ; Restricted ; output-disallowed #      (𝿣)  MODIFIER LETTER SMALL ESH WITH RETROFLEX HOOK
+1DFE4         ; Restricted ; output-disallowed #      (𝿤)  MODIFIER LETTER SMALL TESH DIGRAPH WITH CURL
+1DFE5         ; Restricted ; output-disallowed #      (𝿥)  MODIFIER LETTER SMALL TESH DIGRAPH WITH RETROFLEX HOOK
+1DFE6         ; Restricted ; output-disallowed #      (𝿦)  MODIFIER LETTER SMALL EZH WITH CURL
+1DFE7         ; Restricted ; output-disallowed #      (𝿧)  MODIFIER LETTER SMALL EZH WITH RETROFLEX HOOK
+1DFE8         ; Restricted ; output-disallowed #      (𝿨)  MODIFIER LETTER SMALL CAPITAL D
+1DFE9         ; Restricted ; output-disallowed #      (𝿩)  MODIFIER LETTER SMALL CAPITAL A
+1DFEA         ; Restricted ; output-disallowed #      (𝿪)  MODIFIER LETTER SMALL CAPITAL E
+1DFEB         ; Restricted ; output-disallowed #      (𝿫)  MODIFIER LETTER SMALL REVERSED R WITH FISHHOOK
+1DFEC         ; Restricted ; output-disallowed #      (𝿬)  MODIFIER LETTER SMALL SQUAT REVERSED ESH
+1DFED         ; Restricted ; output-disallowed #      (𝿭)  MODIFIER LETTER SMALL TURNED H WITH FISHHOOK
+1DFEE         ; Restricted ; output-disallowed #      (𝿮)  MODIFIER LETTER SMALL TURNED H WITH FISHHOOK AND TAIL
+1DFEF         ; Restricted ; output-disallowed #      (𝿯)  MODIFIER LETTER SMALL D WITH CURL
+1DFF0         ; Restricted ; output-disallowed #      (𝿰)  MODIFIER LETTER SMALL L WITH CURL
+1DFF1         ; Restricted ; output-disallowed #      (𝿱)  MODIFIER LETTER SMALL N WITH CURL
+1DFF2         ; Restricted ; output-disallowed #      (𝿲)  MODIFIER LETTER SMALL T WITH CURL
+1DFF3         ; input-lenient                  #      (𝿳)  MODIFIER LETTER SMALL GREEK PSI
+1DFF4         ; input-lenient                  #      (𝿴)  MODIFIER LETTER SMALL GREEK OMEGA
+1DFF5         ; Restricted ; output-disallowed #      (𝿵)  MODIFIER LETTER SMALL D WITH PALATAL HOOK
+1DFF6         ; Restricted ; output-disallowed #      (𝿶)  MODIFIER LETTER SMALL H WITH PALATAL HOOK
+1DFF7         ; Restricted ; output-disallowed #      (𝿷)  MODIFIER LETTER SMALL N WITH PALATAL HOOK
+1DFF8         ; Restricted ; output-disallowed #      (𝿸)  MODIFIER LETTER SMALL S WITH PALATAL HOOK
+1DFF9         ; Restricted ; output-disallowed #      (𝿹)  MODIFIER LETTER SMALL Z WITH PALATAL HOOK
+1DFFA         ; Restricted ; output-disallowed #      (𝿺)  MODIFIER LETTER SMALL C WITH HOOK
+1DFFB         ; Restricted ; output-disallowed #      (𝿻)  MODIFIER LETTER SMALL K WITH HOOK
+1DFFC         ; Restricted ; output-disallowed #      (𝿼)  MODIFIER LETTER SMALL P WITH HOOK
+1DFFD         ; Restricted ; output-disallowed #      (𝿽)  MODIFIER LETTER SMALL Q WITH HOOK
+1DFFE         ; Restricted ; output-disallowed #      (𝿾)  MODIFIER LETTER SMALL T WITH HOOK
+1DFFF         ; Restricted ; output-disallowed #      (𝿿)  MODIFIER LETTER SMALL T WITH HOOK AND RETROFLEX HOOK
 1E000..1E006  ; Restricted ; Exclusion         #  [7] (𞀀..𞀆)  COMBINING GLAGOLITIC LETTER AZU..COMBINING GLAGOLITIC LETTER ZHIVETE
 1E008..1E018  ; Restricted ; Exclusion         # [17] (𞀈..𞀘)  COMBINING GLAGOLITIC LETTER ZEMLJA..COMBINING GLAGOLITIC LETTER HERU
 1E01B..1E021  ; Restricted ; Exclusion         #  [7] (𞀛..𞀡)  COMBINING GLAGOLITIC LETTER SHTA..COMBINING GLAGOLITIC LETTER YATI
