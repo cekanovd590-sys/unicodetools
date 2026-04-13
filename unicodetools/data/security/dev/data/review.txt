@@ -1,5 +1,5 @@
 # review.txt
-# Date: 2026-04-10, 16:01:27 GMT
+# Date: 2026-04-13, 16:55:35 GMT
 # © 2026 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use and license, see https://www.unicode.org/terms_of_use.html
@@ -35950,9 +35950,9 @@ FFEE          ; Restricted ; Not_XID           #      (￮)  HALFWIDTH WHITE CIR
 1D243         ; Restricted ; Obsolete          #      (𝉃)  COMBINING GREEK MUSICAL TETRASEME
 1D244         ; Restricted ; Obsolete          #      (𝉄)  COMBINING GREEK MUSICAL PENTASEME
 1D245         ; Restricted ; Not_XID           #      (𝉅)  GREEK MUSICAL LEIMMA
-1D250         ; output-nonstarting             #      (𝉐)  MUSICAL SYMBOL COMBINING FLAG-6
-1D251         ; output-nonstarting             #      (𝉑)  MUSICAL SYMBOL COMBINING FLAG-7
-1D252         ; output-nonstarting             #      (𝉒)  MUSICAL SYMBOL COMBINING FLAG-8
+1D250         ; Restricted ; Technical         #      (𝉐)  MUSICAL SYMBOL COMBINING FLAG-6
+1D251         ; Restricted ; Technical         #      (𝉑)  MUSICAL SYMBOL COMBINING FLAG-7
+1D252         ; Restricted ; Technical         #      (𝉒)  MUSICAL SYMBOL COMBINING FLAG-8
 1D253         ; Restricted ; Not_XID           #      (𝉓)  MUSICAL SYMBOL TWO HUNDRED FIFTY-SIXTH REST
 1D254         ; Restricted ; Not_XID           #      (𝉔)  MUSICAL SYMBOL FIVE HUNDRED TWELFTH REST
 1D255         ; Restricted ; Not_XID           #      (𝉕)  MUSICAL SYMBOL ONE THOUSAND TWENTY-FOURTH REST
@@ -35961,11 +35961,11 @@ FFEE          ; Restricted ; Not_XID           #      (￮)  HALFWIDTH WHITE CIR
 1D258         ; Restricted ; Not_XID           #      (𝉘)  MUSICAL SYMBOL FLAT WITH DOUBLE STEM
 1D259         ; Restricted ; Not_XID           #      (𝉙)  MUSICAL SYMBOL HALF SHARP WITH STROKE
 1D25A         ; Restricted ; Not_XID           #      (𝉚)  MUSICAL SYMBOL SHARP WITH STROKE
-1D25B         ; output-nonstarting             #      (𝉛)  MUSICAL SYMBOL COMBINING TREMOLO-4
-1D25C         ; output-nonstarting             #      (𝉜)  MUSICAL SYMBOL COMBINING TREMOLO-5
+1D25B         ; Restricted ; Technical         #      (𝉛)  MUSICAL SYMBOL COMBINING TREMOLO-4
+1D25C         ; Restricted ; Technical         #      (𝉜)  MUSICAL SYMBOL COMBINING TREMOLO-5
 1D25D         ; Restricted ; Not_XID           #      (𝉝)  MUSICAL SYMBOL FINGERED TREMOLO-4
 1D25E         ; Restricted ; Not_XID           #      (𝉞)  MUSICAL SYMBOL FINGERED TREMOLO-5
-1D25F         ; output-nonstarting             #      (𝉟)  MUSICAL SYMBOL COMBINING BUZZ ROLL STEM
+1D25F         ; Restricted ; Technical         #      (𝉟)  MUSICAL SYMBOL COMBINING BUZZ ROLL STEM
 1D260         ; Restricted ; Not_XID           #      (𝉠)  MUSICAL SYMBOL TRIPLE FLAT
 1D261         ; Restricted ; Not_XID           #      (𝉡)  MUSICAL SYMBOL SUSPENSION
 1D262         ; Restricted ; Not_XID           #      (𝉢)  MUSICAL SYMBOL HEAVY DOUBLE BARLINE
@@ -35998,8 +35998,8 @@ FFEE          ; Restricted ; Not_XID           #      (￮)  HALFWIDTH WHITE CIR
 1D27D         ; Restricted ; Not_XID           #      (𝉽)  MUSICAL SYMBOL C CLEF QUINDICESIMA BASSA
 1D27E         ; Restricted ; Not_XID           #      (𝉾)  MUSICAL SYMBOL TABLATURE CLEF
 1D27F         ; Restricted ; Not_XID           #      (𝉿)  MUSICAL SYMBOL ARPEGGIATO UP WITH ARROW
-1D280         ; output-nonstarting             #      (𝊀)  MUSICAL SYMBOL COMBINING STEM BOW BEHIND BRIDGE
-1D281         ; output-nonstarting             #      (𝊁)  MUSICAL SYMBOL COMBINING STEM BOW ON TOP OF BRIDGE
+1D280         ; Restricted ; Technical         #      (𝊀)  MUSICAL SYMBOL COMBINING STEM BOW BEHIND BRIDGE
+1D281         ; Restricted ; Technical         #      (𝊁)  MUSICAL SYMBOL COMBINING STEM BOW ON TOP OF BRIDGE
 1D2C0         ; Restricted ; Not_XID           #      (𝋀)  KAKTOVIK NUMERAL ZERO
 1D2C1         ; Restricted ; Not_XID           #      (𝋁)  KAKTOVIK NUMERAL ONE
 1D2C2         ; Restricted ; Not_XID           #      (𝋂)  KAKTOVIK NUMERAL TWO

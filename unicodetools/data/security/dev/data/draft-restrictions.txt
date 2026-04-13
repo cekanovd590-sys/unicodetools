@@ -37367,6 +37367,14 @@ FE73          ;  ; Technical #      (ﹳ)  ARABIC TAIL FRAGMENT
 1D17B..1D182  ;  ; Technical #  [8] (𝅻..𝆂)  MUSICAL SYMBOL COMBINING ACCENT..MUSICAL SYMBOL COMBINING LOURE
 1D185..1D18B  ;  ; Technical #  [7] (𝆅..𝆋)  MUSICAL SYMBOL COMBINING DOIT..MUSICAL SYMBOL COMBINING TRIPLE TONGUE
 1D1AA..1D1AD  ;  ; Technical #  [4] (𝆪..𝆭)  MUSICAL SYMBOL COMBINING DOWN BOW..MUSICAL SYMBOL COMBINING SNAP PIZZICATO
+1D250         ;  ; Technical #      (𝉐)  MUSICAL SYMBOL COMBINING FLAG-6
+1D251         ;  ; Technical #      (𝉑)  MUSICAL SYMBOL COMBINING FLAG-7
+1D252         ;  ; Technical #      (𝉒)  MUSICAL SYMBOL COMBINING FLAG-8
+1D25B         ;  ; Technical #      (𝉛)  MUSICAL SYMBOL COMBINING TREMOLO-4
+1D25C         ;  ; Technical #      (𝉜)  MUSICAL SYMBOL COMBINING TREMOLO-5
+1D25F         ;  ; Technical #      (𝉟)  MUSICAL SYMBOL COMBINING BUZZ ROLL STEM
+1D280         ;  ; Technical #      (𝊀)  MUSICAL SYMBOL COMBINING STEM BOW BEHIND BRIDGE
+1D281         ;  ; Technical #      (𝊁)  MUSICAL SYMBOL COMBINING STEM BOW ON TOP OF BRIDGE
 1DF00         ;  ; Technical #      (𝼀)  LATIN SMALL LETTER FENG DIGRAPH WITH TRILL
 1DF01         ;  ; Technical #      (𝼁)  LATIN SMALL LETTER REVERSED SCRIPT G
 1DF02         ;  ; Technical #      (𝼂)  LATIN LETTER SMALL CAPITAL TURNED G
@@ -37459,7 +37467,7 @@ FE73          ;  ; Technical #      (ﹳ)  ARABIC TAIL FRAGMENT
 1DF59         ;  ; Technical #      (𝽙)  LATIN SMALL LETTER SPLIT U
 1DF67         ;  ; Technical #      (𝽧)  LATIN SMALL LETTER LEZH WITH CURL
 
-# Total code points: 832
+# Total code points: 840
 
 0114          ;  ; Uncommon_Use #      (Ĕ)  LATIN CAPITAL LETTER E WITH BREVE
 0115          ;  ; Uncommon_Use #      (ĕ)  LATIN SMALL LETTER E WITH BREVE
@@ -72332,21 +72340,13 @@ AC00..D7A3    ; Allowed ; Recommended # [11172] (가..힣)  HANGUL SYLLABLE GA..
 11303         ; Allowed ; Recommended #      (𑌃)  GRANTHA SIGN VISARGA
 1133C         ; Allowed ; Recommended #      (𑌼)  GRANTHA SIGN NUKTA
 11B0A         ; Allowed ; Recommended #      (𑬊)  DEVANAGARI LETTER ALTERNATE DDDA
-1D250         ; Allowed ; Recommended #      (𝉐)  MUSICAL SYMBOL COMBINING FLAG-6
-1D251         ; Allowed ; Recommended #      (𝉑)  MUSICAL SYMBOL COMBINING FLAG-7
-1D252         ; Allowed ; Recommended #      (𝉒)  MUSICAL SYMBOL COMBINING FLAG-8
-1D25B         ; Allowed ; Recommended #      (𝉛)  MUSICAL SYMBOL COMBINING TREMOLO-4
-1D25C         ; Allowed ; Recommended #      (𝉜)  MUSICAL SYMBOL COMBINING TREMOLO-5
-1D25F         ; Allowed ; Recommended #      (𝉟)  MUSICAL SYMBOL COMBINING BUZZ ROLL STEM
-1D280         ; Allowed ; Recommended #      (𝊀)  MUSICAL SYMBOL COMBINING STEM BOW BEHIND BRIDGE
-1D281         ; Allowed ; Recommended #      (𝊁)  MUSICAL SYMBOL COMBINING STEM BOW ON TOP OF BRIDGE
 1E7E0..1E7E6  ; Allowed ; Recommended #  [7] (𞟠..𞟦)  ETHIOPIC SYLLABLE HHYA..ETHIOPIC SYLLABLE HHYO
 1E7E8..1E7EB  ; Allowed ; Recommended #  [4] (𞟨..𞟫)  ETHIOPIC SYLLABLE GURAGE HHWA..ETHIOPIC SYLLABLE HHWE
 1E7ED..1E7EE  ; Allowed ; Recommended #  [2] (𞟭..𞟮)  ETHIOPIC SYLLABLE GURAGE MWI..ETHIOPIC SYLLABLE GURAGE MWEE
 1E7F0..1E7FE  ; Allowed ; Recommended # [15] (𞟰..𞟾)  ETHIOPIC SYLLABLE GURAGE QWI..ETHIOPIC SYLLABLE GURAGE PWEE
 E0100..E01EF  ; Allowed ; Recommended # [240] (U+E0100..U+E01EF)  VARIATION SELECTOR-17..VARIATION SELECTOR-256
 
-# Total code points: 14145
+# Total code points: 14137
 
 0000..002F    ; ~Unicode Identifier # [48] (U+0000../)  <control-0000>..SOLIDUS
 003A..0040    ; ~Unicode Identifier #  [7] (:..@)  COLON..COMMERCIAL AT
