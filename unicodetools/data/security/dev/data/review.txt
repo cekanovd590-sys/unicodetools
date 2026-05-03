@@ -1,5 +1,5 @@
 # review.txt
-# Date: 2026-04-13, 16:55:35 GMT
+# Date: 2026-05-03, 21:54:18 GMT
 # © 2026 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use and license, see https://www.unicode.org/terms_of_use.html
@@ -2241,7 +2241,6 @@
 0981          ; output-nonstarting             #      (ঁ)  BENGALI SIGN CANDRABINDU
 0982          ; output-nonstarting             #      (ং)  BENGALI SIGN ANUSVARA
 0983          ; output-nonstarting             #      (ঃ)  BENGALI SIGN VISARGA
-0984          ; Restricted ; Obsolete          #      (঄)  BENGALI SIGN COMBINING ANUSVARA ABOVE
 0985          ; output                         #      (অ)  BENGALI LETTER A
 0986          ; output                         #      (আ)  BENGALI LETTER AA
 0987          ; output                         #      (ই)  BENGALI LETTER I
@@ -2334,7 +2333,6 @@
 09FC          ; Restricted ; Obsolete          #      (ৼ)  BENGALI LETTER VEDIC ANUSVARA
 09FD          ; Restricted ; Not_XID           #      (৽)  BENGALI ABBREVIATION SIGN
 09FE          ; Restricted ; Uncommon_Use      #      (৾)  BENGALI SANDHI MARK
-09FF          ; Restricted ; Technical         #      (৿)  BENGALI LETTER SANSKRIT BA
 0A01          ; Restricted ; Uncommon_Use      #      (ਁ)  GURMUKHI SIGN ADAK BINDI
 0A02          ; output-nonstarting             #      (ਂ)  GURMUKHI SIGN BINDI
 0A03          ; Restricted ; Uncommon_Use      #      (ਃ)  GURMUKHI SIGN VISARGA
@@ -4077,7 +4075,6 @@
 1876          ; Restricted ; Exclusion         #      (ᡶ)  MONGOLIAN LETTER MANCHU FA
 1877          ; Restricted ; Exclusion         #      (ᡷ)  MONGOLIAN LETTER MANCHU ZHA
 1878          ; Restricted ; Exclusion         #      (ᡸ)  MONGOLIAN LETTER CHA WITH TWO DOTS
-1879          ; Restricted ; Obsolete          #      (᡹)  MONGOLIAN LETTER ALTERNATE UE
 1880          ; Restricted ; Exclusion         #      (ᢀ)  MONGOLIAN LETTER ALI GALI ANUSVARA ONE
 1881          ; Restricted ; Exclusion         #      (ᢁ)  MONGOLIAN LETTER ALI GALI VISARGA ONE
 1882          ; Restricted ; Exclusion         #      (ᢂ)  MONGOLIAN LETTER ALI GALI DAMARU
@@ -13302,11 +13299,11 @@ FFEE          ; Restricted ; Not_XID           #      (￮)  HALFWIDTH WHITE CIR
 107B8         ; Restricted ; output-disallowed #      (𐞸)  MODIFIER LETTER ALVEOLAR CLICK
 107B9         ; Restricted ; output-disallowed #      (𐞹)  MODIFIER LETTER RETROFLEX CLICK WITH RETROFLEX HOOK
 107BA         ; Restricted ; output-disallowed #      (𐞺)  MODIFIER LETTER SMALL S WITH CURL
-107BB         ; Restricted ; Technical         #      (𐞻)  MODIFIER LETTER SMALL TURNED T
-107BC         ; Restricted ; Technical         #      (𐞼)  MODIFIER LETTER INVERTED GLOTTAL STOP
-107BD         ; Restricted ; Technical         #      (𐞽)  MODIFIER LETTER STRETCHED C
-107BE         ; Restricted ; Technical         #      (𐞾)  MODIFIER LETTER SMALL TURNED K
-107BF         ; Restricted ; Technical         #      (𐞿)  MODIFIER LETTER SMALL ESH WITH DOUBLE BAR
+107BB         ; Restricted ; output-disallowed #      (𐞻)  MODIFIER LETTER SMALL TURNED T
+107BC         ; Restricted ; output-disallowed #      (𐞼)  MODIFIER LETTER INVERTED GLOTTAL STOP
+107BD         ; Restricted ; output-disallowed #      (𐞽)  MODIFIER LETTER STRETCHED C
+107BE         ; Restricted ; output-disallowed #      (𐞾)  MODIFIER LETTER SMALL TURNED K
+107BF         ; Restricted ; output-disallowed #      (𐞿)  MODIFIER LETTER SMALL ESH WITH DOUBLE BAR
 10800..10805  ; Restricted ; Exclusion         #  [6] (𐠀..𐠅)  CYPRIOT SYLLABLE A..CYPRIOT SYLLABLE JA
 10808         ; Restricted ; Exclusion         #      (𐠈)  CYPRIOT SYLLABLE JO
 1080A..10835  ; Restricted ; Exclusion         # [44] (𐠊..𐠵)  CYPRIOT SYLLABLE KA..CYPRIOT SYLLABLE WO
@@ -16724,6 +16721,8 @@ FFEE          ; Restricted ; Not_XID           #      (￮)  HALFWIDTH WHITE CIR
 11DE7         ; Restricted ; Exclusion         #      (𑷧)  TOLONG SIKI DIGIT SEVEN
 11DE8         ; Restricted ; Exclusion         #      (𑷨)  TOLONG SIKI DIGIT EIGHT
 11DE9         ; Restricted ; Exclusion         #      (𑷩)  TOLONG SIKI DIGIT NINE
+11DF0         ; Restricted ; Obsolete          #      (𑷰)  BENGALI SIGN COMBINING ANUSVARA ABOVE
+11DF1         ; Restricted ; Technical         #      (𑷱)  BENGALI LETTER ALTERNATE BARGIYA BA
 11EE0         ; Restricted ; Exclusion         #      (𑻠)  MAKASAR LETTER KA
 11EE1         ; Restricted ; Exclusion         #      (𑻡)  MAKASAR LETTER GA
 11EE2         ; Restricted ; Exclusion         #      (𑻢)  MAKASAR LETTER NGA
@@ -36938,10 +36937,10 @@ FFEE          ; Restricted ; Not_XID           #      (￮)  HALFWIDTH WHITE CIR
 1DF7F         ; Restricted ; Obsolete          #      (𝽿)  LATIN SMALL LETTER REVERSED U
 1DF80         ; Restricted ; Obsolete          #      (𝾀)  LATIN CAPITAL LETTER A WITH TOPBAR
 1DF81         ; Restricted ; Obsolete          #      (𝾁)  LATIN CAPITAL LETTER E WITH BENT TOPBAR
-1DF90         ; Restricted ; Obsolete          #      (𝾐)  LATIN SMALL LETTER C WITH SMALL SLASH
-1DF91         ; Restricted ; Obsolete          #      (𝾑)  LATIN SMALL LETTER C WITH DESCENDING LOOP
+1DF90         ; Restricted ; Obsolete          #      (𝾐)  LATIN SMALL LETTER C WITH LOW SLASH
+1DF91         ; Restricted ; Obsolete          #      (𝾑)  LATIN SMALL LETTER C WITH LOOPED CEDILLA
 1DF92         ; Restricted ; Obsolete          #      (𝾒)  LATIN SMALL LETTER C WITH RIGHT LOOP
-1DF93         ; Restricted ; Obsolete          #      (𝾓)  LATIN SMALL LETTER D ROTUNDA WITH CROSSING LOOP
+1DF93         ; Restricted ; Obsolete          #      (𝾓)  LATIN SMALL LETTER D ROTUNDA WITH DESCENDING CROSSING LOOP
 1DF94         ; Restricted ; Obsolete          #      (𝾔)  LATIN SMALL LETTER R ROTUNDA WITH LOOP
 1DF95         ; input-lenient                  #      (𝾕)  LATIN SMALL LIGATURE LONG S WITH DESCENDER S
 1DF96         ; Restricted ; Obsolete          #      (𝾖)  LATIN SMALL LETTER LONG S WITH TOP LOOP
@@ -84167,7 +84166,7 @@ FFEE          ; Restricted ; Not_XID           #      (￮)  HALFWIDTH WHITE CIR
 3FC3F         ; Restricted ; Exclusion         #      (𿰿)  SEAL CHARACTER-3FC3F
 E0100..E01EF  ; Restricted ; output-disallowed # [240] (U+E0100..U+E01EF)  VARIATION SELECTOR-17..VARIATION SELECTOR-256
 
-# Total code points: 172688
+# Total code points: 172687
 
 # Characters disallowed in IDNA
 # The IDNA spec doesn't allow any of these characters,

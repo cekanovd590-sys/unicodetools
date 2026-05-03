@@ -35518,7 +35518,6 @@ ABF9          ;  ; Limited_Use #      (꯹)  MEETEI MAYEK DIGIT NINE
 0971          ;  ; Obsolete #      (ॱ)  DEVANAGARI SIGN HIGH SPACING DOT
 0978          ;  ; Obsolete #      (ॸ)  DEVANAGARI LETTER MARWARI DDA
 0980          ;  ; Obsolete #      (ঀ)  BENGALI ANJI
-0984          ;  ; Obsolete #      (঄)  BENGALI SIGN COMBINING ANUSVARA ABOVE
 09BD          ;  ; Obsolete #      (ঽ)  BENGALI SIGN AVAGRAHA
 09E0          ;  ; Obsolete #      (ৠ)  BENGALI LETTER VOCALIC RR
 09E1          ;  ; Obsolete #      (ৡ)  BENGALI LETTER VOCALIC LL
@@ -35604,7 +35603,6 @@ ABF9          ;  ; Limited_Use #      (꯹)  MEETEI MAYEK DIGIT NINE
 17D3          ;  ; Obsolete #      (៓)  KHMER SIGN BATHAMASAT
 17DC          ;  ; Obsolete #      (ៜ)  KHMER SIGN AVAKRAHASANYA
 17DD          ;  ; Obsolete #      (៝)  KHMER SIGN ATTHACAN
-1879          ;  ; Obsolete #      (᡹)  MONGOLIAN LETTER ALTERNATE UE
 1AB0          ;  ; Obsolete #      (᪰)  COMBINING DOUBLED CIRCUMFLEX ACCENT
 1AB1          ;  ; Obsolete #      (᪱)  COMBINING DIAERESIS-RING
 1AB2          ;  ; Obsolete #      (᪲)  COMBINING INFINITY
@@ -36352,6 +36350,7 @@ D7FB          ;  ; Obsolete #      (ퟻ)  HANGUL JONGSEONG PHIEUPH-THIEUTH
 10EED         ;  ; Obsolete #      (𐻭)  ARABIC CROWN LETTER HEH
 10EEE         ;  ; Obsolete #      (𐻮)  ARABIC CROWN LETTER YEH
 10EF9         ;  ; Obsolete #      (𐻹)  ARABIC MARK CROWN
+11DF0         ;  ; Obsolete #      (𑷰)  BENGALI SIGN COMBINING ANUSVARA ABOVE
 16FE3         ;  ; Obsolete #      (𖿣)  OLD CHINESE ITERATION MARK
 16FF0         ;  ; Obsolete #      (𖿰)  VIETNAMESE ALTERNATE READING MARK CA
 16FF1         ;  ; Obsolete #      (𖿱)  VIETNAMESE ALTERNATE READING MARK NHAY
@@ -36686,15 +36685,15 @@ D7FB          ;  ; Obsolete #      (ퟻ)  HANGUL JONGSEONG PHIEUPH-THIEUTH
 1DF7F         ;  ; Obsolete #      (𝽿)  LATIN SMALL LETTER REVERSED U
 1DF80         ;  ; Obsolete #      (𝾀)  LATIN CAPITAL LETTER A WITH TOPBAR
 1DF81         ;  ; Obsolete #      (𝾁)  LATIN CAPITAL LETTER E WITH BENT TOPBAR
-1DF90         ;  ; Obsolete #      (𝾐)  LATIN SMALL LETTER C WITH SMALL SLASH
-1DF91         ;  ; Obsolete #      (𝾑)  LATIN SMALL LETTER C WITH DESCENDING LOOP
+1DF90         ;  ; Obsolete #      (𝾐)  LATIN SMALL LETTER C WITH LOW SLASH
+1DF91         ;  ; Obsolete #      (𝾑)  LATIN SMALL LETTER C WITH LOOPED CEDILLA
 1DF92         ;  ; Obsolete #      (𝾒)  LATIN SMALL LETTER C WITH RIGHT LOOP
-1DF93         ;  ; Obsolete #      (𝾓)  LATIN SMALL LETTER D ROTUNDA WITH CROSSING LOOP
+1DF93         ;  ; Obsolete #      (𝾓)  LATIN SMALL LETTER D ROTUNDA WITH DESCENDING CROSSING LOOP
 1DF94         ;  ; Obsolete #      (𝾔)  LATIN SMALL LETTER R ROTUNDA WITH LOOP
 1DF96         ;  ; Obsolete #      (𝾖)  LATIN SMALL LETTER LONG S WITH TOP LOOP
 1E08F         ;  ; Obsolete #      (𞂏)  COMBINING CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I
 
-# Total code points: 2086
+# Total code points: 2085
 
 0180          ;  ; Technical #      (ƀ)  LATIN SMALL LETTER B WITH STROKE
 01C0          ;  ; Technical #      (ǀ)  LATIN LETTER DENTAL CLICK
@@ -36949,7 +36948,6 @@ D7FB          ;  ; Obsolete #      (ퟻ)  HANGUL JONGSEONG PHIEUPH-THIEUTH
 0953          ;  ; Technical #      (॓)  DEVANAGARI GRAVE ACCENT
 0954          ;  ; Technical #      (॔)  DEVANAGARI ACUTE ACCENT
 097D          ;  ; Technical #      (ॽ)  DEVANAGARI LETTER GLOTTAL STOP
-09FF          ;  ; Technical #      (৿)  BENGALI LETTER SANSKRIT BA
 0A74          ;  ; Technical #      (ੴ)  GURMUKHI EK ONKAR
 0AD0          ;  ; Technical #      (ૐ)  GUJARATI OM
 0B82          ;  ; Technical #      (ஂ)  TAMIL SIGN ANUSVARA
@@ -37286,6 +37284,7 @@ FE73          ;  ; Technical #      (ﹳ)  ARABIC TAIL FRAGMENT
 10EF7         ;  ; Technical #      (𐻷)  ARABIC SMALL HIGH HEH INITIAL FORM
 10EF8         ;  ; Technical #      (𐻸)  ARABIC SMALL HIGH WORD KABBIR
 10EFB         ;  ; Technical #      (𐻻)  ARABIC SMALL LOW NOON
+11DF1         ;  ; Technical #      (𑷱)  BENGALI LETTER ALTERNATE BARGIYA BA
 16FF2         ;  ; Technical #      (𖿲)  CHINESE SMALL SIMPLIFIED ER
 16FF3         ;  ; Technical #      (𖿳)  CHINESE SMALL TRADITIONAL ER
 16FF4         ;  ; Technical #      (𖿴)  YANGQIN SIGN SLOW ONE BEAT
